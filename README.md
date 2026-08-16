@@ -1,28 +1,5 @@
-# Code Companion
+# Ramah Portfolio
 
-Build this app using the HTML files referenced below. You can hotlink the images referenced in the HTML. The attached images are screenshots of the desired screens. Here are public links to the html of the screens which you should read and use to build the app:
+My personal portfolio website.
 
-1. https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ6Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpZCiVodG1sXzAwMDY1OGZmYTkwMzUzMWYwNWZkODcwMDM2MDVlMjU3EgsSBxC1o4LG0RkYAZIBIgoKcHJvamVjdF9pZBIUQhIyNzQwNTc1NzUxNTI5NzgwODM&filename=&opi=89354086
-
-This project was built with [Lovable](https://lovable.dev).
-
-**Live app**: https://ramah-portfolio.lovable.app
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/42f15372-1772-4e14-bf58-ad226ec44a02).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+Built with React and deployed on Vercel.
